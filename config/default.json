@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sujanprajapati6539:<Password>@cluster0.fz1kgux.mongodb.net/"
+  "mongoURI": "mongodb+srv://sujanprajapati6539:Hello123@cluster0.fz1kgux.mongodb.net/",
+  "jwtSecret": "Thi$isMyW3bTok3n"
 }
